@@ -13,4 +13,4 @@ Seven crop type classes exist for this data set as follows: 1-Corn; 2-Peas; 3- C
 
 The dataset is available online on https://archive.ics.uci.edu/ml/datasets/Crop+mapping+using+fused+optical-radar+data+set
 
-Contributors: Harshwardhan Singh, Sarvesh Wanode, Kunal Pandey
+Contributors: Harshwardhan Singh, Sarvesh Wanode, Kunal Pandey, Deepankar Sharma
